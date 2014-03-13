@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">L5RCM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_abilities">Abilities</string>
+    <string name="title_rings">Rings</string>
+    <string name="title_overview">Overview</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="character_img_alt">Character portrait</string>
+
+</resources>
